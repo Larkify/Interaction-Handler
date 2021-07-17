@@ -11,7 +11,7 @@
   </p>
 </p>
 
-## File Structure
+## 𝗙𝗶𝗹𝗲 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 *You don't have to have your like this, but it's how I've set it up in the code so if you wish to edit it, you can :D*
 ```
 root/
