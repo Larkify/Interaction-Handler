@@ -10,3 +10,24 @@
     <br />
   </p>
 </p>
+
+## File Structure
+*You don't have to have your like this, but it's how I've set it up in the code so if you wish to edit it, you can :D*
+```
+root/
+├─ index.js
+|
+├─ interactions/
+│  ├─ ping.js
+│  ├─ foobar.js
+|
+├─ handlers/
+│  ├─ interaction.js
+|
+├─ events/
+│  ├─ ready.js
+
+```
+
+## 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 
+
