@@ -1,0 +1,1 @@
+// This is where you put the "interaction.js" file, it contains everything you need.
