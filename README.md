@@ -12,7 +12,7 @@
 </p>
 
 ## 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 
-- Add `interaction.js` to a folder within your root directory.
+- Add `interactionEvent.js.js` to a folder within your root directory.
 - Add the snippet of code (`ready-event-snippet.js`) to your ready event.
 - Create a folder called "interactions" and add all of your code there for slash commands. 
 
@@ -26,11 +26,9 @@ root/
 │  ├─ ping.js
 │  ├─ foobar.js
 |
-├─ handlers/
-│  ├─ interaction.js
-|
 ├─ events/
 │  ├─ ready.js
+|  ├─ interactionEvent.js
 
 ```
 
