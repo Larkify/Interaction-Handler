@@ -1,9 +1,4 @@
 # Interaction Handler
-*A simple slash-command handler for Discord.JS*
-
-## Installing 
-
-# Interaction Handler
 
   <p align="left">
     A simple slash-command handler for Discord.JS, (requires discord.js@dev)
