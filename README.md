@@ -11,6 +11,11 @@
   </p>
 </p>
 
+## 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 
+- Add `interaction.js` to a folder within your root directory.
+- Add the snippet of code (`ready-event-snippet.js`) to your ready event.
+- Create a folder called "interactions" and add all of your code there for slash commands. 
+
 ## 𝗙𝗶𝗹𝗲 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 *You don't have to have your like this, but it's how I've set it up in the code so if you wish to edit it, you can :D*
 ```
@@ -29,5 +34,6 @@ root/
 
 ```
 
-## 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 
+## 𝗘𝘅𝘁𝗿𝗮 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻
+I've added the module.export example in the example folder that you need in **all** of your slash command files (`interactions/`) in order for them to register.
 
