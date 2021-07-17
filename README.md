@@ -33,5 +33,7 @@ root/
 ```
 
 ## 𝗘𝘅𝘁𝗿𝗮 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻
-I've added the module.export example in the example folder that you need in **all** of your slash command files (`interactions/`) in order for them to register.
+1. I've added the module.export example in the example folder that you need in **all** of your slash command files (`interactions/`) in order for them to register.
+2. If you need any help, [join my discord](https://larkx.xyz/discord) or open up an issue on this repository.
+3. Let me know of any suggestions or improvements you have, but yeh! Enjoy :)
 
