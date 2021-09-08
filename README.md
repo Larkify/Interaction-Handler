@@ -11,6 +11,8 @@
   </p>
 </p>
 
+> **NOTE:** This is a little outdated, and the code quality isn't so good. However, it should still work!
+ 
 ## 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 
 - Add `interactionEvent.js.js` to a folder within your root directory.
 - Add the snippet of code (`ready-event-snippet.js`) to your ready event.
