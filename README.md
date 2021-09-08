@@ -3,7 +3,7 @@
 # 𝗜𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗛𝗮𝗻𝗱𝗹𝗲𝗿
 
   <p align="left">
-    A simple slash-command handler for Discord.JS, (requires discord.js@dev)
+    A simple slash-command handler for Discord.JS, (requires discord.js@latest)
     <br />
   <a href="https://github.com/larkify/Interaction-Handler/"><strong><i>Explore the docs »</i></strong></a>
     <br />
